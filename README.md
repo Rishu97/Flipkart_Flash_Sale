@@ -24,4 +24,4 @@ Selenium library of python helps us to automatically navigate throught the web a
 
 I tested the code on June 14th 2017 and was successfull to purchase a Redimi Note 4 which gets sold out very quickly.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
+![Alt text](/relative/Flipkart_Flash_Sale/flashSale_proof.png/to/img.jpg?raw=true "Optional Title")

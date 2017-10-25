@@ -20,7 +20,7 @@ Steps to run:
 
 Basic Expaination:
 
-Selenium library of python helps us to automatically navigate throught the web and can also click button enter credentials in the boxes.Using selenium we first navigated to the desired website and filled out the required feilds. We inspected the elements and found out the classes and Id's(which don't change for different product in the website) of the feild and feeded them in the code
+Selenium library of python helps us to automatically navigate throught the web and can also click button enter credentials in the boxes.Using selenium I first navigated to the desired website and filled out the required feilds. I then inspected the elements and found out the classes and Id's(which don't change for different product in the website) of the feild and feeded them in the code
 
 I tested the code on June 14th 2017 and was successfull to purchase a Redimi Note 4 which gets sold out very quickly.
 
